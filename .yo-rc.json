@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "spfx-office-fabric-ui",
+    "libraryId": "a207694b-2f5b-47a8-8736-dd96e96d2fd3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFX_OfficeFabric_UI",
+    "solutionShortDescription": "SPFX_OfficeFabric_UI description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-office-fabric-ui-client-side-solution",
+    "id": "a207694b-2f5b-47a8-8736-dd96e96d2fd3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFX_OfficeFabric_UI description"
+      },
+      "longDescription": {
+        "default": "SPFX_OfficeFabric_UI description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-office-fabric-ui Feature",
+        "description": "The feature that activates elements of the spfx-office-fabric-ui solution.",
+        "id": "f41e1e13-2c70-4fb2-b163-5eba65ba37ba",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-office-fabric-ui.sppkg"
+  }
+}
